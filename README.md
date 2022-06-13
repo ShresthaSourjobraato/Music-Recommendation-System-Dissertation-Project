@@ -26,6 +26,8 @@ instructions
 4. Chrome Browser
 5. Python 3.9 interpreter
 6. Python Libraries : Pandas, Sklearn, Flask, numpy, yellowbricks, matplotlib, Flask sql_Alchemy
+
 Step 1: Install all dependencies from requirements.txt Command: pip install -r requirements.txt
 
-Step 2: Run main.py file
+Step 2: Run main.py file 
+#it's a flask app 
